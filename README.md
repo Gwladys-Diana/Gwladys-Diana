@@ -1,8 +1,8 @@
 <h1 align="center">Salut 👋, moi c'est ATUTONU Gwladys-Diana</h1>
-<h3 align="center">Étudiante développeuse passionnée par le mobile et le web, toujours à la recherche d'innovation</h3>
+<h3 align="center">Développeuse passionnée par le mobile et le web, toujours à la recherche d'innovation</h3>
 
 <p align="center">
-  🎓 Étudiante à l'IAI-TOGO <br/>
+  🎓 Étudiante en 3eme année à l'IAI-TOGO <br/>
   💼 En stage à l'INFA de Tové
 </p>
 
